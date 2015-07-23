@@ -12,7 +12,7 @@ app.use(express.static('client'));
 
 
 module.exports = app;
-var PORT = 3000;
+var PORT = 80;
 
 // var UserSchema = new Schema ({
 //   id: ObjectId,
